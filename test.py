@@ -9,6 +9,7 @@ def test_add():
 def test_divode():
     assert divide(6,3)==2
 
+
 def test_multiply():
     assert multiplication(2,2)==4
 
